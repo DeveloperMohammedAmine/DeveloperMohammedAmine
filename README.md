@@ -5,7 +5,7 @@
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
 [![Microsoft URL](https://img.shields.io/static/v1?color=red&label=Microsoft&logo=microsoft&logoColor=white&style=for-the-badge&message=Follow)](https://learn.microsoft.com/en-us/users/mohamedtaman/)
 
-**I speak Java and am a [Java Champion](https://javachampions.org/members.html), Oracle ACE Alumni, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
+**Hi there, Im mohammed web developer i speak PHP laguage , FullStack developer since 2021, I'm from algeria.**
 
 I love sharing my knowledge and experience, contributing to open-source projects related to Java, and sharing PoCs & problems as code on this repository.
 
